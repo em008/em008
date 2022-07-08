@@ -2,7 +2,7 @@
 ### <div align="center"> [Portfolio](https://emestiza.github.io) | [GitHub](https://github.com/emestiza) </div>
 
 ### Profile
-Software Engineer that develops innovative solutions to complex problems with a quantitative approach. An academic background in physics and mathematics has nurtured analytical and problem solving skills. Flexibility to collaborate with colleagues from diverse backgrounds and skill sets, developed through prior experience in technology and media sectors.
+I develop innovative solutions to complex problems with a quantitative approach. An academic background in physics and mathematics has nurtured analytical and problem solving skills. Flexibility to collaborate with colleagues from diverse backgrounds and skill sets, developed through prior experience in technology and media sectors.
 
 ### Languages and Technologies
 * Languages: Python, Ruby, JavaScript, HTML5, CSS, R, Octave
